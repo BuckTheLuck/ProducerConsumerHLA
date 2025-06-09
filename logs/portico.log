@@ -1,0 +1,1 @@
+14:52:04,449 ERROR [main] portico.lrc.jgroups: FAILURE createFederation: already exists, name=ProducerConsumerFederation
